@@ -14,7 +14,7 @@
 
 主要用 **Go** 做后端开发（Gin / GORM / MySQL / Redis / Elasticsearch），也写 **PHP / Python / Java**。
 
-业余时间折腾 Windows 桌面工具和 AI 编程工具——不满足于只用工具，也会改造工具、自己造轮子。
+业余时间做 Windows 桌面应用和 AI 编程工具——不满足于只用工具，也会改造工具、自己造轮子。
 
 ## 技术栈
 
