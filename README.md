@@ -4,68 +4,48 @@
 
 **Backend Developer · Desktop Tools · AI Engineering**
 
-<sub>Go · TypeScript · C# · Windows</sub>
+<sub>Go · PHP · Python · Java · TypeScript · C#</sub>
 
 <a href="https://github.com/Muyuu-wml?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=94A3B8" /></a>
 
 </div>
 
-## About Me
+## 关于我
 
-I build backend services and developer tools.
+主要用 **Go** 做后端开发（Gin / GORM / MySQL / Redis / Elasticsearch），也写 **PHP / Python / Java**。
 
-- Backend development with Go
-- Windows desktop application development
-- Exploring AI-powered developer tools
-- Building small tools to solve real problems
+业余时间折腾 Windows 桌面工具和 AI 编程工具——不满足于只用工具，也会改造工具、自己造轮子。
 
-## Tech Stack
+## 技术栈
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,vue,cs,mysql,redis,elasticsearch,git,github,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=go,php,python,java,ts,js,vue,cs,mysql,redis,elasticsearch,git,github,vscode,windows" />
 
 </div>
 
-## Featured Projects
-
-### 🖥️ [X-SSH](https://github.com/Muyuu-wml/x-ssh)
-
-**Modern SSH client for Windows.** A desktop SSH client designed for Windows — multi-tab terminal, SFTP file management, transfer queue, encrypted configuration backup. Single-file `.exe`.
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_v2-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/xterm.js-000000?style=flat-square" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 特色项目
 
 ### 🌳 [opencode-file-tree](https://github.com/Muyuu-wml/opencode-file-tree)
 
-**File explorer for OpenCode.** A file-tree extension for OpenCode's terminal interface — sidebar file tree, inline preview, content search, Git diff comparison.
+OpenCode 文件管理器。给 OpenCode 终端界面加上文件树——侧边栏目录树、内联文件预览、文件内容搜索、Git 左右差异对比。
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
 
-</td>
-<td width="50%" valign="top">
-
 ### 🌊 [AI-Island](https://github.com/Muyuu-wml/AI-Island)
 
-**A desktop information hub.** A Windows desktop application inspired by Dynamic Island — lightweight, always-on information panel.
+桌面信息中心。一款受 Dynamic Island 启发的 Windows 桌面应用——轻量、常驻、不打扰。
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 
-</td>
-</tr>
-</table>
+### 🖥️ [X-SSH](https://github.com/Muyuu-wml/x-ssh)
 
-## GitHub Stats
+适用于 Windows 的现代化 SSH 客户端。多标签终端、SFTP 文件管理、传输队列、加密配置备份，单文件 `.exe` 开箱即用。
 
-<div align="center">
-
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muyuu-wml&theme=github_dark" />
-
-</div>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_v2-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/xterm.js-000000?style=flat-square" />
 
 <div align="center">
-<sub>Build something useful. Keep exploring.</sub>
+
+<sub>顺手造点有用的东西。</sub>
+
 </div>
