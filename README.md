@@ -42,7 +42,7 @@ OpenCode 文件管理器。给 OpenCode 终端界面加上文件树——侧边�
 
 适用于 Windows 的现代化 SSH 客户端。多标签终端、SFTP 文件管理、传输队列、加密配置备份，单文件 `.exe` 开箱即用。
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_v2-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/xterm.js-000000?style=flat-square" />
+[![Download](https://img.shields.io/badge/Download-v0.1.0-2ea44f?style=flat-square)](https://github.com/Muyuu-wml/x-ssh/releases/latest) <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Wails_v2-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/xterm.js-000000?style=flat-square" />
 
 <div align="center">
 
