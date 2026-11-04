@@ -62,7 +62,7 @@ I build backend services and developer tools.
 
 <div align="center">
 
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Muyuu-wml&theme=github_dark" />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muyuu-wml&theme=github_dark" />
 
 </div>
 
