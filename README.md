@@ -62,8 +62,7 @@ I build backend services and developer tools.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Muyuu-wml&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muyuu-wml&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Muyuu-wml&theme=github_dark" />
 
 </div>
 
