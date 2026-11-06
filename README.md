@@ -24,7 +24,7 @@ Go / PHP / Python / Java。
 
 </div>
 
-## 特色项目
+## 项目
 
 ### 🌳 [opencode-file-tree](https://github.com/Muyuu-wml/opencode-file-tree)
 
